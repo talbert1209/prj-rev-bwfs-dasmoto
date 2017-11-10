@@ -1,0 +1,43 @@
+/* creates background-image in heading */
+.header {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+}
+
+/* Formats text in heading */
+.header h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+/* Creates green bar for brushes title */
+#title-brushes {
+  background-color: mediumspringgreen;
+}
+
+/* Creates green bar for frames title */
+#title-frames {
+  background-color: lightcoral;
+}
+
+/* Creates green bar for paint title */
+#title-paint {
+  background-color: skyblue;
+}
+
+/* Fromats secondary headings/ titles */
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+/* Formats strong price elements */
+.content strong {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
